@@ -1,0 +1,17 @@
+.navbar-div{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.list {
+    flex:1;
+    flex-direction:column
+    
+}
+
+/* .navbar-div .list{
+    /* flex-direction: row; */
+    /* justify-content: left; */
+    /* width: 100%;
+    margin: 10px 10px; */
+/* } */ 
